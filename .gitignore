@@ -1,0 +1,5 @@
+.idea/
+mvm_script_old_files/
+venv/
+*.~lock*
+*.xlsx
